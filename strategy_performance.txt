@@ -1,0 +1,10 @@
+QUANTITATIVE TRADING STRATEGY PERFORMANCE
+==================================================
+
+Total Return:              nan%
+Annualized Volatility:   52.85%
+Sharpe Ratio:              0.28
+Max Drawdown:           -86.39%
+Win Rate:                40.41%
+Total Trades:               740
+Buy & Hold Return:       22.78%
